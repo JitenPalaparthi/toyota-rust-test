@@ -1,0 +1,22 @@
+year,state,month,number
+2007,Distrito Federal,Julho,25
+2006,Paraiba,Maio,0
+2005,Paraiba,Junho,114
+2007,Minas Gerais,Setembro,5
+2006,Sergipe,Janeiro,36
+2006,Sergipe,Agosto,0
+2006,Ceara,Junho,0
+2005,Goias,Março,36
+2006,Maranhao,Maio,5
+2007,Pernambuco,Agosto,20
+2005,Paraiba,Outubro,155
+2005,Mato Grosso,Setembro,21
+2007,Amapa,Março,0
+2007,Mato Grosso,Janeiro,19
+2005,Rio,Outubro,168
+
+year,number
+2005,495
+2006,41
+2007,69
+2008,155

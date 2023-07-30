@@ -1,0 +1,39 @@
+year,state,month,number
+2014,Mato Grosso,Dezembro,84
+2011,Paraiba,Agosto,12
+2015,Alagoas,Outubro,40
+2015,Bahia,Agosto,829
+2014,Piau,Maio,138
+2012,Paraiba,Março,4
+2013,Amazonas,Outubro,1
+2013,Paraiba,Março,18
+2011,Sergipe,Março,47
+2012,Paraiba,Dezembro,62
+2011,Roraima,Junho,6
+2011,Paraiba,Dezembro,78
+2011,Ceara,Novembro,2
+2012,Alagoas,Fevereiro,41
+2013,Mato Grosso,Setembro,6
+2010,Santa Catarina,Abril,19
+2014,Tocantins,Abril,187
+2014,Roraima,Março,494
+2013,Bahia,Novembro,288
+2011,Santa Catarina,Maio,16
+2014,Amapa,Setembro,137
+2010,Distrito Federal,Janeiro,2
+2014,Espirito Santo,Dezembro,28
+2013,Santa Catarina,Outubro,107
+2010,Minas Gerais,Maio,179
+2010,Rio,Outubro,35
+2014,Espirito Santo,Junho,9
+2010,Sergipe,Agosto,0
+2015,Distrito Federal,Julho,15
+2012,Amapa,Julho,3
+
+year,number
+2010,235
+2011,161
+2012,110
+2013,420
+2014,1077
+2015,884
